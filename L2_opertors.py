@@ -1,0 +1,8 @@
+number1= int(input('enter 1st number'))
+number2= float(input('enter 2nd number'))
+number3 = int(input('enter 3rd number'))  
+number4 = int(input('enter 4th number'))
+print('the sum of given numbers: ',number1+number2+number3+number4)
+print('the substraction of the given number:',number1-number2-number3-number4)
+print('the multipliction of the given number:',number1*number2*number3*number4)
+print('the divison of the given number:',number1/number2/number3/number4)
